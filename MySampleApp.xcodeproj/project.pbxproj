@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		078770EC1DA815B00026777D /* READ_ME in Resources */ = {isa = PBXBuildFile; fileRef = 078770EB1DA815B00026777D /* READ_ME */; };
 		07F300021DA72075000539F0 /* QuestionView.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 07F300011DA72075000539F0 /* QuestionView.storyboard */; };
 		07F300041DA72186000539F0 /* QuestionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07F300031DA72186000539F0 /* QuestionViewController.swift */; };
 		07F300421DA727C7000539F0 /* MainTabViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07F300411DA727C7000539F0 /* MainTabViewController.swift */; };
@@ -108,6 +109,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		078770EB1DA815B00026777D /* READ_ME */ = {isa = PBXFileReference; lastKnownFileType = folder; path = READ_ME; sourceTree = "<group>"; };
 		07F300011DA72075000539F0 /* QuestionView.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = QuestionView.storyboard; path = MySampleApp/Demo/QuestionView/QuestionView.storyboard; sourceTree = SOURCE_ROOT; };
 		07F300031DA72186000539F0 /* QuestionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = QuestionViewController.swift; path = MySampleApp/Demo/QuestionView/QuestionViewController.swift; sourceTree = SOURCE_ROOT; };
 		07F300411DA727C7000539F0 /* MainTabViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MainTabViewController.swift; path = MySampleApp/App/MainTabViewController.swift; sourceTree = SOURCE_ROOT; };
@@ -439,6 +441,7 @@
 		B401C979CA19E9F800000000 /* mainGroup */ = {
 			isa = PBXGroup;
 			children = (
+				078770EB1DA815B00026777D /* READ_ME */,
 				B401C979BB4747EB00000000 /* Frameworks */,
 				B401C979CBAB3A9C00000000 /* MySampleApp */,
 				B401C979BB601A7E00000000 /* Products */,
@@ -560,6 +563,7 @@
 				E7A30F046371D5C800000000 /* AppAnalytics.storyboard in Resources */,
 				E7A30F04D941F73200000000 /* UserSettings.storyboard in Resources */,
 				07F300021DA72075000539F0 /* QuestionView.storyboard in Resources */,
+				078770EC1DA815B00026777D /* READ_ME in Resources */,
 				07F3FFF81DA70D59000539F0 /* CreateQuestion.storyboard in Resources */,
 				E7A30F049250AFD100000000 /* CloudLogic.storyboard in Resources */,
 				07F3FFFD1DA71EC7000539F0 /* QuestionListView.storyboard in Resources */,
